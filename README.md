@@ -37,3 +37,14 @@ The analysis pipeline involves the utilization of several bioinformatics tools t
 - GATK (Genome Analysis Toolkit): A powerful software package for variant discovery and genotyping in high-throughput sequencing data. GATK will be employed to compare genetic variants between Labrador Retrievers and Bulldogs, enabling the identification of breed-specific differences.
 
 These tools collectively facilitate the acquisition, preprocessing, and analysis of genomic data, enabling comprehensive investigation into the genetic landscapes of Labrador Retrievers and Bulldogs.
+
+Future Directions:
+
+Comparative Genomic Analysis with GATK:
+
+Moving forward, I plan to conduct a comprehensive comparative genomic analysis using the Genome Analysis Toolkit (GATK). GATK offers a robust suite of tools specifically designed for variant discovery, genotyping, and comprehensive analysis of high-throughput sequencing data.
+
+Analysis Plan:
+
+- Variant Calling: Utilizing GATK's variant calling algorithms, I will identify genetic variants, including single nucleotide polymorphisms (SNPs) and insertions/deletions (indels), across the genomes of Labrador Retrievers and Bulldogs.
+- Breed-Specific Variant Identification: I will compare the identified variants between the two breeds to pinpoint breed-specific genetic variations. By distinguishing between common and breed-specific variants, I aim to uncover genetic signatures unique to each breed.

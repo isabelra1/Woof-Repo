@@ -40,8 +40,6 @@ These tools collectively facilitate the acquisition, preprocessing, and analysis
 
 Future Directions:
 
-Comparative Genomic Analysis with GATK:
-
 Moving forward, I plan to conduct a comprehensive comparative genomic analysis using the Genome Analysis Toolkit (GATK). GATK offers a robust suite of tools specifically designed for variant discovery, genotyping, and comprehensive analysis of high-throughput sequencing data.
 
 Analysis Plan:
